@@ -1,5 +1,4 @@
-## 🦊 Hello there, Welcome to my world! 🦊
-- 😄 Pronouns: He/Him or just Fox.
+## 🦊 Hello, Welcome to my world! 🦊
 - 🔭 I'm passionate about coding and enjoy working with data, primarily using Python to build and integrate solutions.
 - 👯 I collaborate mainly with my friends because they encourage me to turn my silly ideas into working prototypes.
 - 🤔 Although I love working with data, I find front-end development challenging, as design and animation are not my strong suits. Nonetheless, I'm eager to learn and -improve my skills in this area.
