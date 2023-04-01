@@ -1,6 +1,6 @@
 
 <h1 align="center">🦊 Hello, Welcome to my world! 🦊</h1>
-<p align="center">22 | Jordanian | Computer science graduate from Universiti Teknologi PETRONAS in Malaysia | Extroverted Introvert | Fox | GRADUATEDDDD 🎉🥳</p>
+<p align="center">22 | Jordanian | Computer Science graduate from Universiti Teknologi PETRONAS in Malaysia | Extroverted Introvert | Fox | GRADUATEDDD 🎉🥳</p>
 
 - 🔭 I'm passionate about coding and enjoy working with data, primarily using Python to build and integrate solutions.
 - 👯 I collaborate mainly with my friends because they encourage me to turn my silly ideas into working prototypes.
